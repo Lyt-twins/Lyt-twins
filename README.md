@@ -5,7 +5,14 @@
 ---
 
 ## 🔧 기술 스택
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,github&theme=light)
+![My Skills](https://skillicons.dev/icons?i=react,java,mysql,js,flutter,spring,bootstrap&theme=light)
+
+![Full Stack](https://img.shields.io/badge/-Fullstack-blue?style=flat-square) 
+![RestAPI](https://img.shields.io/badge/-RestAPI-green?style=flat-square) 
+![API](https://img.shields.io/badge/-API-lightgrey?style=flat-square) 
+![JSP](https://img.shields.io/badge/-JSP-orange?style=flat-square) 
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-brightgreen?style=flat-square) 
+![MyBatis](https://img.shields.io/badge/-MyBatis-red?style=flat-square)
 
 ---
 
