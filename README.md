@@ -4,11 +4,9 @@
 
 ---
 
-<div align="center">
 ## 📌 Portfolio
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://enchanting-relation-5ee.notion.site/264495e83f7b80d59114d94cecea7cff?pvs=143)
   
-</div>
 
 ---
 
