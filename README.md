@@ -3,6 +3,11 @@
 새로운 기술을 배우고, 사용자에게 도움이 되는 서비스를 만드는 걸 좋아합니다 🚀  
 
 ---
+## 📌 Portfolio
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://enchanting-relation-5ee.notion.site/264495e83f7b80d59114d94cecea7cff?pvs=143)
+
+---
+
 
 ## 🔧 기술 스택
 ![My Skills](https://skillicons.dev/icons?i=react,java,mysql,js,flutter,spring,bootstrap&theme=light)
