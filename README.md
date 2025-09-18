@@ -37,14 +37,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 활동 통계
 
 <div align="center">
 
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lyt-twins&show_icons=true&theme=tokyonight&cache_seconds=86400&token=YOUR_TOKEN)
+
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.vercel.app/?user=Lyt-twins&theme=tokyonight&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lyt-twins&theme=tokyonight&cache_seconds=86400&token=YOUR_TOKEN)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lyt-twins&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyt-twins&layout=compact&theme=tokyonight&cache_seconds=86400&token=YOUR_TOKEN)
 
 </div>
