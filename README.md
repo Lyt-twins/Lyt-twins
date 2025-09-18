@@ -42,12 +42,12 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lyt-twins&show_icons=true&theme=tokyonight&cache_seconds=86400&token=YOUR_TOKEN)
+![GitHub Stats](https://github-readme-stats-phi-mauve-r39h5zijun.vercel.app/api?username=Lyt-twins&show_icons=true&theme=dracula)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lyt-twins&theme=tokyonight&cache_seconds=86400&token=YOUR_TOKEN)
+![GitHub Streak](https://streak-stats.vercel.app/?user=Lyt-twins&theme=dracula)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyt-twins&layout=compact&theme=tokyonight&cache_seconds=86400&token=YOUR_TOKEN)
+![Top Langs](https://github-readme-stats-phi-mauve-r39h5zijun.vercel.app/api/top-langs/?username=Lyt-twins&layout=compact&theme=dracula)
 
 </div>
