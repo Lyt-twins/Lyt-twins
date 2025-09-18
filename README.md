@@ -41,7 +41,6 @@
 
 <div align="center">
 
-<!-- GitHub Stats (미러 서버 + 캐시 적용) -->
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lyt-twins&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 <!-- GitHub Streak -->
