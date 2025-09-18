@@ -42,6 +42,6 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lyt-twins&show_icons=true&theme=tokyonight&cache_seconds=1800&token=YOUR_TOKEN)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lyt-twins&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lyt-twins&theme=tokyonight&cache_seconds=1800)
 
 </div>
